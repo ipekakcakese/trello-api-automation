@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7a0e425-c6df-48cc-ac7c-30f217a8d1f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/logs/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/outputs/product-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/model/ProductDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/pages/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/FileWriterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/LoggerUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/PriceHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/ScrollUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/main/java/testautomation/beymen/utils/WaitHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/test/java/tests/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testinium_Selenium_Project/src/test/resources/data/search_keywords.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BoardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/TrelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AppiumDemo/src/test/java/StepsDef/GoogleSearchSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AppiumDemo/src/test/java/StepsDef/GoogleSearchSteps.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ipekakcakese"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ipekakcakese/trello-api-automation.git",
+    "accountId": "ae19c4e3-7d67-4bec-8626-503041bebb3f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2wYeq8P8ZUUc6AGCZ1OEykZL27N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TrelloTest.executor": "Run",
+    "JUnit.TrelloTest.trelloApiScenario.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TrelloTest">
+    <configuration name="TrelloTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trello-api-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TrelloTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrelloTest.trelloApiScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="trello-api-automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TrelloTest" />
+      <option name="METHOD_NAME" value="trelloApiScenario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TrelloTest" />
+        <item itemvalue="JUnit.TrelloTest.trelloApiScenario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7a0e425-c6df-48cc-ac7c-30f217a8d1f6" name="Changes" comment="" />
+      <created>1746223126482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746223126482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
